@@ -1,0 +1,254 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\orhun\\Desktop\\StudentRegistration\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D76A7DA-B7E7-493F-9A8D-F8AC48405B3E}|StudentRegistration\\StudentRegistration.csproj|c:\\users\\orhun\\desktop\\studentregistration\\studentregistration\\data\\studentregistrationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D76A7DA-B7E7-493F-9A8D-F8AC48405B3E}|StudentRegistration\\StudentRegistration.csproj|solutionrelative:studentregistration\\data\\studentregistrationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D76A7DA-B7E7-493F-9A8D-F8AC48405B3E}|StudentRegistration\\StudentRegistration.csproj|c:\\users\\orhun\\desktop\\studentregistration\\studentregistration\\views\\student\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D76A7DA-B7E7-493F-9A8D-F8AC48405B3E}|StudentRegistration\\StudentRegistration.csproj|solutionrelative:studentregistration\\views\\student\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D76A7DA-B7E7-493F-9A8D-F8AC48405B3E}|StudentRegistration\\StudentRegistration.csproj|c:\\users\\orhun\\desktop\\studentregistration\\studentregistration\\views\\student\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D76A7DA-B7E7-493F-9A8D-F8AC48405B3E}|StudentRegistration\\StudentRegistration.csproj|solutionrelative:studentregistration\\views\\student\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D76A7DA-B7E7-493F-9A8D-F8AC48405B3E}|StudentRegistration\\StudentRegistration.csproj|c:\\users\\orhun\\desktop\\studentregistration\\studentregistration\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D76A7DA-B7E7-493F-9A8D-F8AC48405B3E}|StudentRegistration\\StudentRegistration.csproj|solutionrelative:studentregistration\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D76A7DA-B7E7-493F-9A8D-F8AC48405B3E}|StudentRegistration\\StudentRegistration.csproj|c:\\users\\orhun\\desktop\\studentregistration\\studentregistration\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D76A7DA-B7E7-493F-9A8D-F8AC48405B3E}|StudentRegistration\\StudentRegistration.csproj|solutionrelative:studentregistration\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D76A7DA-B7E7-493F-9A8D-F8AC48405B3E}|StudentRegistration\\StudentRegistration.csproj|c:\\users\\orhun\\desktop\\studentregistration\\studentregistration\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D76A7DA-B7E7-493F-9A8D-F8AC48405B3E}|StudentRegistration\\StudentRegistration.csproj|solutionrelative:studentregistration\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D76A7DA-B7E7-493F-9A8D-F8AC48405B3E}|StudentRegistration\\StudentRegistration.csproj|c:\\users\\orhun\\desktop\\studentregistration\\studentregistration\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D76A7DA-B7E7-493F-9A8D-F8AC48405B3E}|StudentRegistration\\StudentRegistration.csproj|solutionrelative:studentregistration\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D76A7DA-B7E7-493F-9A8D-F8AC48405B3E}|StudentRegistration\\StudentRegistration.csproj|c:\\users\\orhun\\desktop\\studentregistration\\studentregistration\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D76A7DA-B7E7-493F-9A8D-F8AC48405B3E}|StudentRegistration\\StudentRegistration.csproj|solutionrelative:studentregistration\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D76A7DA-B7E7-493F-9A8D-F8AC48405B3E}|StudentRegistration\\StudentRegistration.csproj|c:\\users\\orhun\\desktop\\studentregistration\\studentregistration\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D76A7DA-B7E7-493F-9A8D-F8AC48405B3E}|StudentRegistration\\StudentRegistration.csproj|solutionrelative:studentregistration\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D76A7DA-B7E7-493F-9A8D-F8AC48405B3E}|StudentRegistration\\StudentRegistration.csproj|c:\\users\\orhun\\desktop\\studentregistration\\studentregistration\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D76A7DA-B7E7-493F-9A8D-F8AC48405B3E}|StudentRegistration\\StudentRegistration.csproj|solutionrelative:studentregistration\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D76A7DA-B7E7-493F-9A8D-F8AC48405B3E}|StudentRegistration\\StudentRegistration.csproj|c:\\users\\orhun\\desktop\\studentregistration\\studentregistration\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D76A7DA-B7E7-493F-9A8D-F8AC48405B3E}|StudentRegistration\\StudentRegistration.csproj|solutionrelative:studentregistration\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D76A7DA-B7E7-493F-9A8D-F8AC48405B3E}|StudentRegistration\\StudentRegistration.csproj|c:\\users\\orhun\\desktop\\studentregistration\\studentregistration\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D76A7DA-B7E7-493F-9A8D-F8AC48405B3E}|StudentRegistration\\StudentRegistration.csproj|solutionrelative:studentregistration\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D76A7DA-B7E7-493F-9A8D-F8AC48405B3E}|StudentRegistration\\StudentRegistration.csproj|c:\\users\\orhun\\desktop\\studentregistration\\studentregistration\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D76A7DA-B7E7-493F-9A8D-F8AC48405B3E}|StudentRegistration\\StudentRegistration.csproj|solutionrelative:studentregistration\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D76A7DA-B7E7-493F-9A8D-F8AC48405B3E}|StudentRegistration\\StudentRegistration.csproj|c:\\users\\orhun\\desktop\\studentregistration\\studentregistration\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D76A7DA-B7E7-493F-9A8D-F8AC48405B3E}|StudentRegistration\\StudentRegistration.csproj|solutionrelative:studentregistration\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\orhun\\Desktop\\StudentRegistration\\StudentRegistration\\Views\\Student\\Create.cshtml",
+              "RelativeDocumentMoniker": "StudentRegistration\\Views\\Student\\Create.cshtml",
+              "ToolTip": "C:\\Users\\orhun\\Desktop\\StudentRegistration\\StudentRegistration\\Views\\Student\\Create.cshtml",
+              "RelativeToolTip": "StudentRegistration\\Views\\Student\\Create.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-07T13:03:15.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\orhun\\Desktop\\StudentRegistration\\StudentRegistration\\Views\\Student\\Delete.cshtml",
+              "RelativeDocumentMoniker": "StudentRegistration\\Views\\Student\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\orhun\\Desktop\\StudentRegistration\\StudentRegistration\\Views\\Student\\Delete.cshtml",
+              "RelativeToolTip": "StudentRegistration\\Views\\Student\\Delete.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-28T10:34:35.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\orhun\\Desktop\\StudentRegistration\\StudentRegistration\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "StudentRegistration\\Views\\Student\\Index.cshtml",
+              "ToolTip": "C:\\Users\\orhun\\Desktop\\StudentRegistration\\StudentRegistration\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "StudentRegistration\\Views\\Student\\Index.cshtml",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAE0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-28T10:34:51.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentRegistrationContext.cs",
+              "DocumentMoniker": "C:\\Users\\orhun\\Desktop\\StudentRegistration\\StudentRegistration\\Data\\StudentRegistrationContext.cs",
+              "RelativeDocumentMoniker": "StudentRegistration\\Data\\StudentRegistrationContext.cs",
+              "ToolTip": "C:\\Users\\orhun\\Desktop\\StudentRegistration\\StudentRegistration\\Data\\StudentRegistrationContext.cs",
+              "RelativeToolTip": "StudentRegistration\\Data\\StudentRegistrationContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T13:25:03.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\orhun\\Desktop\\StudentRegistration\\StudentRegistration\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "StudentRegistration\\Models\\Course.cs",
+              "ToolTip": "C:\\Users\\orhun\\Desktop\\StudentRegistration\\StudentRegistration\\Models\\Course.cs",
+              "RelativeToolTip": "StudentRegistration\\Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T17:40:38.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\orhun\\Desktop\\StudentRegistration\\StudentRegistration\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "StudentRegistration\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\orhun\\Desktop\\StudentRegistration\\StudentRegistration\\Models\\Student.cs",
+              "RelativeToolTip": "StudentRegistration\\Models\\Student.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T12:33:33.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\orhun\\Desktop\\StudentRegistration\\StudentRegistration\\Views\\Student\\Details.cshtml",
+              "RelativeDocumentMoniker": "StudentRegistration\\Views\\Student\\Details.cshtml",
+              "ToolTip": "C:\\Users\\orhun\\Desktop\\StudentRegistration\\StudentRegistration\\Views\\Student\\Details.cshtml",
+              "RelativeToolTip": "StudentRegistration\\Views\\Student\\Details.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-28T11:10:36.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\orhun\\Desktop\\StudentRegistration\\StudentRegistration\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "StudentRegistration\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\orhun\\Desktop\\StudentRegistration\\StudentRegistration\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "StudentRegistration\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-28T11:15:56.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\orhun\\Desktop\\StudentRegistration\\StudentRegistration\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "StudentRegistration\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\orhun\\Desktop\\StudentRegistration\\StudentRegistration\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "StudentRegistration\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-28T11:15:54.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\orhun\\Desktop\\StudentRegistration\\StudentRegistration\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "StudentRegistration\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\orhun\\Desktop\\StudentRegistration\\StudentRegistration\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "StudentRegistration\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T17:40:35.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\orhun\\Desktop\\StudentRegistration\\StudentRegistration\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "StudentRegistration\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\orhun\\Desktop\\StudentRegistration\\StudentRegistration\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "StudentRegistration\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-08T17:40:25.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\orhun\\Desktop\\StudentRegistration\\StudentRegistration\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "StudentRegistration\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\orhun\\Desktop\\StudentRegistration\\StudentRegistration\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "StudentRegistration\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-28T10:34:26.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\orhun\\Desktop\\StudentRegistration\\StudentRegistration\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "StudentRegistration\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\orhun\\Desktop\\StudentRegistration\\StudentRegistration\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "StudentRegistration\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABQAAAAAAAAAAAAuwCYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-07T13:16:59.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\orhun\\Desktop\\StudentRegistration\\StudentRegistration\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "StudentRegistration\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\orhun\\Desktop\\StudentRegistration\\StudentRegistration\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "StudentRegistration\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-07T13:24:48.592Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

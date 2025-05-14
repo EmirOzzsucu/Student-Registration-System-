@@ -1,0 +1,44 @@
+﻿@model StudentRegistration.Models.Student
+
+@{
+    ViewData["Title"] = "Add Student";
+}
+
+<h2>Add New Student</h2>
+
+<form asp-action="Create" enctype="multipart/form-data">
+    <div class="form-group">
+        <label asp-for="Name" class="control-label"></label>
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Surname" class="control-label"></label>
+        <input asp-for="Surname" class="form-control" />
+        <span asp-validation-for="Surname" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="SchoolNumber" class="control-label"></label>
+        <input asp-for="SchoolNumber" class="form-control" />
+        <span asp-validation-for="SchoolNumber" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Class" class="control-label"></label>
+        <input asp-for="Class" class="form-control" />
+        <span asp-validation-for="Class" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="DateOfBirth" class="control-label"></label>
+        <input asp-for="DateOfBirth" class="form-control" type="date" />
+        <span asp-validation-for="DateOfBirth" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label for="ImageFile">Upload Student Photo</label>
+        <input type="file" name="ImageFile" class="form-control" />
+    </div>
+
+    <button type="submit" class="btn btn-primary">Save</button>
+</form>
+
+<a href="/Student/Index" class="btn btn-secondary mt-3">Back to Students</a>

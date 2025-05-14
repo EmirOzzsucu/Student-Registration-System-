@@ -1,0 +1,37 @@
+﻿@model Student
+
+<h2>Student Details</h2>
+
+<div>
+    <h4>Student Details</h4>
+    <dl class="dl-horizontal">
+        <dt>Name</dt>
+        <dd>@Model.Name</dd>
+
+        <dt>Surname</dt>
+        <dd>@Model.Surname</dd>
+
+        <dt>School Number</dt>
+        <dd>@Model.SchoolNumber</dd>
+
+        <dt>Class</dt>
+        <dd>@Model.Class</dd>
+
+        <dt>Date of Birth</dt>
+        <dd>@Model.DateOfBirth.ToShortDateString()</dd>
+
+        <dt>Image</dt>
+        <dd>
+            @if (!string.IsNullOrEmpty(Model.ImagePath))
+            {
+                <img src="@Model.ImagePath" alt="Student Image" style="width: 150px; height: 150px;" />
+            }
+            else
+            {
+                <span>No Image Available</span>
+            }
+        </dd>
+    </dl>
+
+    <a href="@Url.Action("Index", "Student")" class="btn btn-secondary">Back to List</a>
+</div>

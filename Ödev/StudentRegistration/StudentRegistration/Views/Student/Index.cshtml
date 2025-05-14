@@ -1,0 +1,114 @@
+﻿@model IEnumerable<Student>
+
+@{
+    ViewData["Title"] = "Student List";
+}
+
+<form method="get" class="form-inline mb-3 justify-content-center">
+    <input type="text" class="form-control" name="searchString" value="@ViewData["CurrentFilter"]" placeholder="Search students..." />
+    <button type="submit" class="btn btn-primary ml-2">Search</button>
+</form>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Surname</th>
+            <th>School Number</th>
+            <th>Class</th>
+            <th>Date of Birth</th>
+            <th>Image</th> 
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var student in Model)
+        {
+            <tr>
+                <td>@student.Name</td>
+                <td>@student.Surname</td>
+                <td>@student.SchoolNumber</td>
+                <td>@student.Class</td>
+                <td>@student.DateOfBirth.ToShortDateString()</td>
+                <td>
+                    @if (!string.IsNullOrEmpty(student.ImagePath))
+                    {
+                        <img src="@student.ImagePath" alt="Student Image" style="width: 50px; height: 50px;" />
+                    }
+                    else
+                    {
+                        <span>No Image</span>
+                    }
+                </td>
+                <td>
+                    <a href="@Url.Action("Details", "Student", new { id = student.Id })" class="btn btn-info">Details</a>
+                    <a href="@Url.Action("Edit", "Student", new { id = student.Id })" class="btn btn-primary">Edit</a>
+                    <a href="@Url.Action("Delete", "Student", new { id = student.Id })" class="btn btn-danger">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<div class="pagination d-flex justify-content-center">
+    @if (ViewData["TotalPages"] != null && ViewData["CurrentPage"] != null)
+    {
+        int totalPages = (int)ViewData["TotalPages"];
+        int currentPage = (int)ViewData["CurrentPage"];
+
+        @if (currentPage > 1)
+        {
+            <a href="@Url.Action("Index", new { searchString = ViewData["CurrentFilter"], page = currentPage - 1 })" class="btn btn-secondary">Previous</a>
+        }
+
+        @for (int i = 1; i <= totalPages; i++)
+        {
+            <a href="@Url.Action("Index", new { searchString = ViewData["CurrentFilter"], page = i })" class="btn btn-outline-secondary @(i == currentPage ? "active" : "")">@i</a>
+        }
+
+        @if (currentPage < totalPages)
+        {
+            <a href="@Url.Action("Index", new { searchString = ViewData["CurrentFilter"], page = currentPage + 1 })" class="btn btn-secondary">Next</a>
+        }
+    }
+</div>
+
+<style>
+    .pagination a {
+        color: #6c757d; 
+        background-color: transparent; 
+        border: 1px solid #6c757d; 
+        margin: 0 5px;
+        padding: 10px 15px;
+        font-weight: bold;
+    }
+
+        .pagination a.active {
+            color: #fff; 
+            background-color: #6c757d; 
+            border-color: #6c757d; 
+        }
+
+    .pagination {
+        display: flex;
+        justify-content: center;
+        margin-top: 20px;
+    }
+
+        .pagination .btn-secondary {
+            color: #fff;
+            background-color: #6c757d;
+            border-color: #6c757d;
+        }
+
+        .pagination .btn-outline-secondary {
+            color: #6c757d;
+            background-color: transparent;
+            border-color: #6c757d;
+        }
+
+            .pagination .btn-outline-secondary:hover {
+                background-color: #6c757d;
+                color: white;
+            }
+</style>
